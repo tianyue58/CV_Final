@@ -1,0 +1,12 @@
+.DS_Store
+*.h5
+*.pth
+*.pyc
+*.pyo
+*.log
+*.tmp
+.idea/
+.ipynb_checkpoints
+.pytest_cache
+__pycache__/
+cache/
