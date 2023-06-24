@@ -4,7 +4,7 @@ This is the project of DATA130051 Computer Vision.
 
 ## Task 1
 
-Run it in Colab Notebook: [![Open In Colab]()
+Run it in Colab Notebook: [![Open In Colab](https://colab.research.google.com/drive/1mr8yziuhmGQoFeQspqY-ks3Ga_iU8Lnr?usp=sharing)
 
 ## Task 2
 
