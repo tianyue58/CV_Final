@@ -8,7 +8,7 @@ Run it in Colab Notebook: [![Open In Colab](https://colab.research.google.com/as
 
 ## Task 2
 
-We use several CNNs to build classifiers for CIFAR-100, and try to use some augmentation methods like Cut-Out, Cut-Mix, and Mix-Up to optimize the model. And we finally get a top-1 accuracy of 86.79% and top-5 accuracy of 98.46% using the EfficientNetB3.
+We use several CNNs to build classifiers for CIFAR-100, and try to use some augmentation methods like Cut-Out, Cut-Mix, and Mix-Up to optimize the model. And we finally get a top-1 accuracy of 90.78% and top-5 accuracy of 99.07% using transformer.
 
 The usages of the codes like training and testing processes are shown in the corresponding folders.
 
