@@ -21,8 +21,8 @@ The usages of the codes like training and testing processes are shown in the cor
 
 ### Experiments
 
-|  Dataset  |                                             Neural Network                                              | Augmentation | Accuracy | Accuracy Top 5 |
-| :-------: | :-----------------------------------------------------------------------------------------------------: | :----------: | :------: | :------------: |
-| CIFAR-100 | [EfficientNetB7](https://drive.google.com/file/d/1e58zfXlcOxf74zKYt3RVzxzfURkLg7lZ/view?usp=share_link) |   Cut-Mix    |  88.35%  |     98.76%     |
-| CIFAR-100 | [VitB16-Cut-Mix](https://drive.google.com/file/d/1qC3C4FZ721rVoAat739uPHGhm1bP7bZk/view?usp=share_link) |   Cut-Mix    |  90.78%  |     99.07%     |
+|  Dataset  |                                             Neural Network                                              | Augmentation | Param Size | Accuracy | Accuracy Top 5 |
+| :-------: | :-----------------------------------------------------------------------------------------------------: | :----------: | :----------: | :------: | :------------: |
+| CIFAR-100 | [EfficientNetB7](https://drive.google.com/file/d/1e58zfXlcOxf74zKYt3RVzxzfURkLg7lZ/view?usp=share_link) |   Cut-Mix    |  86500000  | 88.35%  |     98.76%     |
+| CIFAR-100 | [VitB16](https://drive.google.com/file/d/1qC3C4FZ721rVoAat739uPHGhm1bP7bZk/view?usp=share_link) |   Cut-Mix    |  83481312   | 90.78%  |     99.07%     |
 
