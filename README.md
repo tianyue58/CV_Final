@@ -8,7 +8,7 @@ Run it in Colab Notebook: [![Open In Colab](https://colab.research.google.com/as
 
 ## Task 2
 
-We use several CNNs to build classifiers for CIFAR-100, and try to use some augmentation methods like Cut-Out, Cut-Mix, and Mix-Up to optimize the model. And we finally get a top-1 accuracy of 90.78% and top-5 accuracy of 99.07% using transformer.
+In the second part of the project, we use vision transformer to build classifiers for CIFAR-100, and try to use augmentation method, Cut-Mix, to optimize the model. And we finally get a top-1 accuracy of 90.78 percent and top-5 accuracy of 99.07 percent using transformer. 
 
 The usages of the codes like training and testing processes are shown in the corresponding folders.
 
@@ -16,11 +16,8 @@ The usages of the codes like training and testing processes are shown in the cor
 
 <img alt="Unaugmented" src="https://github.com/tianyue58/CV_Final/assets/77108843/6cfc91f0-fd41-4957-a9d0-322bcd9e2655">
 
-<img alt="Cut-Out" src="https://github.com/tianyue58/CV_Final/assets/77108843/19aa9c63-b7ae-443d-befa-d0a047928aca">
-
 <img alt="Cut-Mix" src="https://github.com/tianyue58/CV_Final/assets/77108843/e4b71f7e-686c-4d89-8d64-f0be50d04aaa">
 
-<img alt="Mix-Up" src="https://github.com/tianyue58/CV_Final/assets/77108843/7ac36af1-b5f9-468f-90f0-e8bcf3a91364">
 
 ### Experiments
 
