@@ -28,5 +28,5 @@ The usages of the codes like training and testing processes are shown in the cor
 | CIFAR-100 | [EfficientNetB3](https://drive.google.com/file/d/1XeSawySV9PwkvcAvHtPMQjSNO-tLjnUT/view?usp=share_link) |   Cut-Out    |  86.56%  |     98.49%     |
 | CIFAR-100 | [EfficientNetB3](https://drive.google.com/file/d/1e58zfXlcOxf74zKYt3RVzxzfURkLg7lZ/view?usp=share_link) |   Cut-Mix    |  86.79%  |     98.46%     |
 | CIFAR-100 | [EfficientNetB3](https://drive.google.com/file/d/1RUPFcfR3OkUNorQ19QIvbG2yQQrFB7sV/view?usp=share_link) |    Mix-Up    |  85.67%  |     98.39%     |
-| CIFAR-100 | [VitB32-Cut-Mix](https://drive.google.com/file/d/1qC3C4FZ721rVoAat739uPHGhm1bP7bZk/view?usp=share_link) |   Cut-Mix    |  90.78%  |     99.07%     |
+| CIFAR-100 | [VitB16-Cut-Mix](https://drive.google.com/file/d/1qC3C4FZ721rVoAat739uPHGhm1bP7bZk/view?usp=share_link) |   Cut-Mix    |  90.78%  |     99.07%     |
 
