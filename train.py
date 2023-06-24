@@ -30,10 +30,10 @@ from image_data_generator import CutMixImageDataGenerator
 # https://github.com/keras-team/keras/issues/17199
 # from keras.applications import EfficientNetB3 have bugs
 from networks.efficientnet import EfficientNetB3
-from vit_keras.vit import vit_b32
+from vit_keras.vit import vit_b16
 
 
-MODEL = "VitB32"
+MODEL = "VitB16"
 AUGMENTATION = "Cut-Mix"
 MODEL_PATH = MODEL + "-{0}".format(AUGMENTATION)
 BATCH_SIZE = 32
@@ -142,7 +142,7 @@ def acc_top5(y_true, y_pred):
 
 def compile_model(n_classes):
     if not os.path.exists(PATHS["checkpoint"]):
-        net = vit_b32(
+        net = vit_b16(
             image_size=IMAGE_SIZE,
             activation="softmax",
             pretrained=True,
